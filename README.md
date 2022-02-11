@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📈 Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=Jupyter Notebook" /> |
-| ------------- | ------------- |
+<p align="center">	
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats"/>  
+  <img width="50%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=Jupyter Notebook" /> 
+</p>
