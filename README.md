@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats"/>  
   <img width="50%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=Jupyter Notebook" /> 
 </p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shaha007.shaha007" alt="shahan007 :: Visitor's Count" /></p>
