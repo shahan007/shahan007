@@ -1,25 +1,34 @@
-## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&color=461ECFDA&center=true&vCenter=true&width=600&height=100&lines=Welcome+Back+%F0%9F%91%8B;Ready%2C+Steady%2C+Code+%F0%9F%9A%80+" alt="Typing SVG" /></a>
+</div>
+
+## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://visitor-badge.laobi.icu/badge?page_id=shaha007.shaha007" align="right" alt="shahan007 :: Visitor's Count" /> 
 
 I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information Technology and Business. I am a tech enthusiast & an open-source advocate. 
 
-<!--
-**shahan007/shahan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Auth0](https://img.shields.io/badge/-Auth0-black?style=flat-square&logo=auth0)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Antd](https://img.shields.io/badge/-Antd-black?style=flat-square&logo=Antd)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 ## 📈 Stats
 <p align="center">	
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats"/>  
-  <img width="50%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /> 
+  <img  align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats"/>  
+  <img   align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /> 
 </p>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shaha007.shaha007" alt="shahan007 :: Visitor's Count" /></p>
+
+
+
