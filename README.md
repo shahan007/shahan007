@@ -10,18 +10,23 @@ I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information T
 ## ⚡ Technologies
 
 ![Auth0](https://img.shields.io/badge/-Auth0-black?style=flat-square&logo=auth0)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Antd](https://img.shields.io/badge/-Antd-black?style=flat-square&logo=Antd)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![VsCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
 
 ## 📈 Stats
