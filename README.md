@@ -17,6 +17,7 @@ I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information T
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
+![styled-components](https://img.shields.io/badge/-styledcomponents-black?style=flat-square&logo=styled-components)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
