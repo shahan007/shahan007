@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&color=461ECFDA&center=true&vCenter=true&width=600&height=100&lines=Welcome+Back+%F0%9F%91%8B;Ready%2C+Steady%2C+Code+%F0%9F%9A%80+" alt="Typing SVG" /></a>
 </div>
 
-## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://visitor-badge.laobi.icu/badge?page_id=shaha007.shaha007" align="right" alt="shahan007 :: Visitor's Count" /> 
+## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information Technology and Business. I am a tech enthusiast & an open-source advocate. 
 
