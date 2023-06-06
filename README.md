@@ -32,7 +32,6 @@ I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information T
 
 ## 📈 Stats
 <p align="center">	
-  <img  align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=shahan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahan's github stats"/>  
   <img   align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan007&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /> 
 </p>
 
