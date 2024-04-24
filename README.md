@@ -15,7 +15,7 @@ I am a an undergraduate @ SUSS, currently pursuing my Bachelors in Information T
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springBoot)
-![SpringBoot](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=antdesign)
